@@ -7,6 +7,6 @@ The documentation may include:
 - Project planning
 - Technical notes
 - Requirements
-- Research findings
+- Research findings 
 - References
 - Design decisions
