@@ -1,27 +1,59 @@
-# EV Powertrain Digital Twin - Digital Showroom Dashboard
+Team Members & Roles
 
-**Author:** Kashif Jawad Mazhar  
-**Role:** Visualization & UI Lead  
-**Project:** EV Powertrain Digital Twin (Electric Mobility Showroom)  
+	•	Pratibha Gyawali – Powertrain & Vehicles: Understands real electric vehicle systems and decides what the digital twin needs to represent.
+	•	Mamata Nepal – Simulation & Modelling: Develops powertrain models and runs simulations of system behavior.
+	•	Sajib Chandra Das – Data & Analytics: Analyzes power, energy, efficiency, and system data.
+	•	Kashif Jawad Mazhar – Visualization: Presents data, analysis, and simulation results through graphs and visual tools.
 
----
-# EV Powertrain Digital Twin - Digital Showroom Dashboard
+Project Overview
 
-In our university team project for the Electric Mobility Showroom, we are building an EV Powertrain Digital Twin.In our team personal task I am responsible for designing and developing the frontend Digital Showroom Dashboard to visualize all data, analytics, and simulation results
----
+This university team project focuses on designing and developing a digital twin of an electric vehicle (EV) powertrain for the Electric Mobility showroom.
 
-# Status of My Work
-I have built the pilot version of the Streamlit dashboard for our project.
+The project includes power system modeling, data and energy analytics, simulation, visualization, and pilot preparation.
 
-* Right now, I am using dummy data in my code based on initial research and team parameter sheets of Sajib and Pratibha.
-* This is not the final version yet. Once Mamata finishes and shares her backend simulation code, I will connect the real simulation outputs to my dashboard for the final visual work.
+The work starts with understanding the relevant EV powertrain components and continues toward developing models, analyzing system data, performing simulations, visualizing results, and preparing a digital twin pilot.
 
----
+Project Objectives
 
-# How I Integrated My Team's Work
-I built this dashboard by combining the research done by my team members:
+The main objectives of the project are to:
 
-* Pratibha Gyawali (Powertrain & Vehicles): I used her powertrain architecture (Battery -> Inverter -> Motor -> Drivetrain -> Wheels) and Polestar vehicle parameters. 
-* Sajib Chandra Das (Data & Analytics): I integrated his analytics formulas for power demand (P = V * I), energy consumption (E = integral of P dt), and system efficiency. 
-* My Part (Visualization & UI): I designed the full web interface, created the dynamic performance charts, and added sidebar controls using Streamlit and Matplotlib[cite: 10, 13].
+	•	Understand the main components and operation of an EV powertrain
+	•	Develop suitable models for the powertrain system
+	•	Perform data and energy analysis
+	•	Carry out powertrain simulations
+	•	Visualize important data and simulation results
+	•	Develop a digital twin concept
+	•	Prepare a pilot demonstration
 
+Main Project Areas
+
+1. Powertrain Modeling
+Study the EV powertrain and develop suitable models for the project.
+
+2. Energy and Data Analytics
+Analyze relevant power, energy, efficiency, and system data.
+
+3. Simulation
+Use the developed models to study the behavior of the EV powertrain under different operating conditions.
+
+4. Visualization
+Present important data, analysis, and simulation results using clear graphs and other suitable visualization methods.
+
+5. Digital Twin and Pilot
+Combine the modeling, analytics, simulation, and visualization work toward the development of a digital twin and pilot demonstration.
+
+Project Workflow
+
+Understanding EV Powertrain Components
+↓
+Powertrain Modeling
+↓
+Data & Energy Analytics
+↓
+Simulation
+↓
+Visualization
+↓
+Digital Twin
+↓
+Pilot Preparation
